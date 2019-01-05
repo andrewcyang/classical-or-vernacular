@@ -1,2 +1,2 @@
 # classical-or-vernacular
-Classifying vernacular and classical Chinese with a random forest.
+Using machine learning to classify vernacular versus classical Chinese.
